@@ -1,11 +1,11 @@
 {
-  "name": "Example Plugin",
-  "author": "John Doe",
+  "name": "KrakenKeys",
+  "author": "John Rugen",
   "flags": ["debug", "_root"],
   "api_version": 1,
   "publish": {
-    "tags": ["template", "root"],
-    "description": "Decky example plugin.",
-    "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/PluginLoader"
+    "tags": ["deals", "krakenkeys", "games", "prices"],
+    "description": "KrakenKeys Decky plugin.",
+    "image": "https://raw.githubusercontent.com/johnrugen/KrakenKeys-DeckyPlugin/main/assets/krakenkeys-logo.png"
   }
 }

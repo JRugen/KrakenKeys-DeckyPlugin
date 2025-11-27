@@ -12,3 +12,13 @@ declare module "*.jpg" {
   const content: string;
   export default content;
 }
+
+declare global {
+  const SteamClient: {
+    User?: {
+      GetIPCountry?: () => Promise<string> | string;
+    };
+  };
+}
+
+export {};
