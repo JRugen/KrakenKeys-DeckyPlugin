@@ -47,14 +47,6 @@ Tests cover:
 3. Toggle “Include key-shop offers” in the plugin panel and confirm API calls include the flag.
 4. Verify USD/EUR/GBP detection by changing VPN/IP country (overlay displays corresponding currency).
 
-## Submission Prep (Decky Plugin Database)
-
-- `plugin.json` – update `name`, `author`, `description`, `tags`, and set your icon/art.
-- `README.md` – describes the plugin, installation steps, and requirements (this file).
-- `LICENSE` – keep the template license footer plus your project’s license at the top.
-- Build artifacts – ensure only `dist/index.js` is produced; no temporary files in the repo.
-- Screenshots/video – recommend adding an image of the overlay to the repo for the submission form.
-
 ## Acknowledgements
 
 - AppID detection approach inspired by [IsThereAnyDeal-DeckyPlugin](https://github.com/JtdeGraaf/IsThereAnyDeal-DeckyPlugin).

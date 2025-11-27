@@ -4,10 +4,10 @@
 # 
 # Usage:
 #   1. Update STEAM_DECK_IP with your Steam Deck's IP address
-#   2. Update PLUGIN_NAME if different from "krakenkeys"
-#   3. Run: ./deploy.sh
+#   2. Run: ./deploy.sh
+# @TODO - Remove the plugin folder on the Steam Deck before copying new files
 
-STEAM_DECK_IP="192.168.0.188"  # ⚠️ REPLACE WITH YOUR STEAM DECK'S IP ADDRESS
+STEAM_DECK_IP="111.111.0.111"  # Replace with Steam Deck IP
 PLUGIN_NAME="krakenkeys"
 
 # Colors for output
