@@ -7,6 +7,17 @@ Show the best deal through KrakenKeys for the game you are currently viewing in 
 
 All lookups are performed live against the public KrakenKeys API, and you can optionally exclude key shops with a toggle in the plugin settings.
 
+## Screenshots
+
+### Overlay showing best deal from KrakenKeys
+![KrakenKeys Lowest Price](https://raw.githubusercontent.com/JRugen/KrakenKeys-DeckyPlugin/main/screenshots/KrakenKeysLowest.jpg)
+
+### Overlay when Steam has the best price
+![Steam Lowest Price](https://raw.githubusercontent.com/JRugen/KrakenKeys-DeckyPlugin/main/screenshots/SteamLowest.jpg)
+
+### Plugin settings panel
+![KrakenKeys Preferences](https://raw.githubusercontent.com/JRugen/KrakenKeys-DeckyPlugin/main/screenshots/KrakenKeysPrefs.jpg)
+
 ## Features
 
 - Detects the current Steam AppID
@@ -14,12 +25,16 @@ All lookups are performed live against the public KrakenKeys API, and you can op
 - Automatically disables the “best price” button when Steam is already cheapest.
 - Overlay that fits inside the control strip and respects Steam’s UI layout.
 
+## Installation
+Install through the Decky plugin store. 
+
+
 ## Requirements
 
 - Node.js 18+ and `pnpm` v9 (plugin is pure frontend; no backend build needed).
 - Decky Loader ≥ 2.8
 
-## Getting Started
+## Building
 
 ```bash
 pnpm install
