@@ -1,7 +1,7 @@
 {
-  "name": "decky-plugin-template",
-  "version": "0.0.1",
-  "description": "A template to quickly create decky plugins from scratch, based on TypeScript and webpack",
+  "name": "krakenkeys-decky-plugin",
+  "version": "1.0.0",
+  "description": "KrakenKeys Decky plugin.",
   "type": "module",
   "scripts": {
     "build": "rollup -c",
@@ -19,12 +19,12 @@
     "steam-deck",
     "deck"
   ],
-  "author": "You <you@you.tld>",
+  "author": "John Rugen <johnrugen@krakenkeys.com>",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/SteamDeckHomebrew/decky-plugin-template/issues"
+    "url": "https://github.com/JRugen/KrakenKeys-DeckyPlugin/issues"
   },
-  "homepage": "https://github.com/SteamDeckHomebrew/decky-plugin-template#readme",
+  "homepage": "https://github.com/JRugen/KrakenKeys-DeckyPlugin#readme",
   "devDependencies": {
     "@decky/rollup": "^1.0.2",
     "@decky/ui": "^4.11.0",
