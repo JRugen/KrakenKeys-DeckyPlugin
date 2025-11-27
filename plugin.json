@@ -6,6 +6,6 @@
   "publish": {
     "tags": ["deals", "krakenkeys", "games", "prices"],
     "description": "KrakenKeys Decky plugin.",
-    "image": "https://raw.githubusercontent.com/johnrugen/KrakenKeys-DeckyPlugin/main/assets/krakenkeys-logo.png"
+    "image": "https://raw.githubusercontent.com/JRugen/KrakenKeys-DeckyPlugin/main/assets/krakenkeys-logo.png"
   }
 }
