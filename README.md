@@ -7,6 +7,8 @@ Show the best deal through KrakenKeys for the game you are currently viewing in 
 
 All lookups are performed live against the public KrakenKeys API, and you can optionally exclude key shops with a toggle in the plugin settings.
 
+Data comes from [KrakenKeys](https://krakenkeys.com/) - The Steam game price comparison platform.
+
 ## Screenshots
 
 ### Overlay showing best deal from KrakenKeys
